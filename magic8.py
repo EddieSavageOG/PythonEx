@@ -55,3 +55,5 @@ else:
 print(name + " asks: " + question)
 print("I am seeing... " + answer)
 
+TODO: Add a lucky number too, duh!
+TODO: Integrate into a website instead of the CLI
